@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tarea_01\\semana_01\\",
+  "WorkspaceRootPath": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|d:\\josehp\\carrera computacion e informatica\\semestre 3\\programacion orientada a objetos i\\tareas\\tarea_01\\semana_01\\problema_1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49B8EC1E-52EE-497D-80DD-159C5B4EFEDA}|Problema_1_2\\Problema_1_2.csproj|d:\\josehp\\carrera computacion e informatica\\semestre 3\\programacion orientada a objetos i\\tareas\\tareas_pooi\\tarea01\\problema_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B8EC1E-52EE-497D-80DD-159C5B4EFEDA}|Problema_1_2\\Problema_1_2.csproj|solutionrelative:problema_1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\problema_1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|solutionrelative:problema_1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|d:\\josehp\\carrera computacion e informatica\\semestre 3\\programacion orientada a objetos i\\tareas\\tarea_01\\semana_01\\problema_1_3\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\problema_1_3\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B08A23-D2D7-4E54-9F8F-4D35C38A088A}|Problema_1_3\\Problema_1_3.csproj|solutionrelative:problema_1_3\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,33 +22,44 @@
       "DocumentGroups": [
         {
           "DockedHeight": 194,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Coordinador.cs",
-              "DocumentMoniker": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tarea_01\\semana_01\\Problema_1_3\\Coordinador.cs",
-              "RelativeDocumentMoniker": "Problema_1_3\\Coordinador.cs",
-              "ToolTip": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tarea_01\\semana_01\\Problema_1_3\\Coordinador.cs",
-              "RelativeToolTip": "Problema_1_3\\Coordinador.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwC0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T15:58:45.638Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tarea_01\\semana_01\\Problema_1_3\\Program.cs",
-              "RelativeDocumentMoniker": "Problema_1_3\\Program.cs",
-              "ToolTip": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tarea_01\\semana_01\\Problema_1_3\\Program.cs",
-              "RelativeToolTip": "Problema_1_3\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAABJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_2\\Program.cs",
+              "RelativeDocumentMoniker": "Problema_1_2\\Program.cs",
+              "ToolTip": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_2\\Program.cs",
+              "RelativeToolTip": "Problema_1_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T15:56:45.935Z",
+              "WhenOpened": "2024-09-14T19:13:55.07Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coordinador.cs",
+              "DocumentMoniker": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_3\\Coordinador.cs",
+              "RelativeDocumentMoniker": "Problema_1_3\\Coordinador.cs",
+              "ToolTip": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_3\\Coordinador.cs",
+              "RelativeToolTip": "Problema_1_3\\Coordinador.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:58:45.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_3\\Program.cs",
+              "RelativeDocumentMoniker": "Problema_1_3\\Program.cs",
+              "ToolTip": "D:\\JOSEHP\\CARRERA COMPUTACION E INFORMATICA\\SEMESTRE 3\\PROGRAMACION ORIENTADA A OBJETOS I\\TAREAS\\Tareas_POOI\\Tarea01\\Problema_1_3\\Program.cs",
+              "RelativeToolTip": "Problema_1_3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:56:45.935Z"
             }
           ]
         }
